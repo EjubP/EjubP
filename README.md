@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning PLC and Embedded Systems -IOT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me piralic.ejub@gmail.com
--                    +38762242933(Viber&WA)
 
 <!---
 EjubP/EjubP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
